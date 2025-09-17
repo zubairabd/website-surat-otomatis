@@ -1,2 +1,3 @@
 # website-surat-otomatis
-intgrasi antara google form, spreadsheet, dan docs
+tautan website
+```https://sites.google.com/smafg.sch.id/websitesuratotomatis/home```
